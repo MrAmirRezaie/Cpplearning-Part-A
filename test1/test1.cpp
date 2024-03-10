@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
 	/*
+	//Write a program that takes two numbers from the user and prints the positive numbers between the two numbers.
 	double num1,
 		num2;
 
@@ -20,9 +21,14 @@ int main()
 			cout << i << "	";
 		}
 	}
-
-	return 0;
 	*/
-
-
+	/*
+	//Write a program that prints the numbers between zero and hundred
+	
+	for (int i = 0; i <= 100; i++)
+	{
+		cout << i << " ";
+	}
+	*/
+	return 0;
 }
