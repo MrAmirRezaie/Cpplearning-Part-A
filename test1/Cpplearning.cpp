@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
+	//Part[A]
+
 	/*
 	//Write a program that takes two numbers from the user and prints the positive numbers between the two numbers.
 	double num1,
@@ -22,6 +24,9 @@ int main()
 		}
 	}
 	*/
+
+	//Part[B]
+
 	/*
 	//Write a program that prints the numbers between zero and hundred
 	
